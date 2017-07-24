@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single"
+        android:id="@+id/group1">
+        <item
+            android:id="@+id/nav_reservez"
+            android:icon="@drawable/reservez"
+            android:title="@string/rezervez" />
+        <item
+            android:id="@+id/nav_account"
+            android:icon="@drawable/my_account"
+            android:title="@string/my_account" />
+        <item
+            android:id="@+id/nav_cart"
+            android:icon="@drawable/cart"
+            android:title="@string/cart" />
+    </group>
+
+    <group
+        android:id="@+id/group3">
+        <item
+        android:id="@+id/nav_help"
+        android:icon="@drawable/faq"
+        android:title="@string/help" /></group>
+
+    
+
+
+
+
+
+
+
+
+</menu>

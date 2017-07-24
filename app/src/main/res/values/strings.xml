@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pharma</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="rezervez">Réservez</string>
+    <string name="my_account">Mon compte</string>
+    <string name="cart">Mon panier</string>
+    <string name="help">Aide</string>
+    <string name="share">Partager</string>
+
+    <string name="title_activity_splash_screen">Pharma</string>
+
+</resources>
